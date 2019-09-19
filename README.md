@@ -24,7 +24,7 @@ $ docker run -itd -p 5001:5001 --restart=always  xt1800i/snapnews-loc
 
 
 
-#License
+# License
 ````
 Copyright (c) 2019-present NAVER Corp.
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -46,7 +46,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ````
 
-#Citation
+# Citation
 ````
 @inproceedings{baek2019character,
   title={Character Region Awareness for Text Detection},
